@@ -4,7 +4,7 @@ To develop a program to obtain bus admittance matrix for the given power
 system network by singular transformation method. 
 
 THEORY: 
-Bus admittance matrix is often used in power system studies. In most of the 
+   Bus admittance matrix is often used in power system studies. In most of the 
 power system studies, it is necessary to form [Y-bus] matrix of the system by considering 
 certain power system parameters depending upon the type of analysis. 
 For example, in the load flow analysis it is necessary to form [Y-bus] matrix 
