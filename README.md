@@ -1,12 +1,12 @@
 # EX.-2-FORMATION-OF-Y-BUS-MATRIX-BY-SINGULAR-TRANSFORMATION-METHOD-
-AIM:  
+# AIM:  
 To develop a program to obtain bus admittance matrix for the given power 
 system network by singular transformation method.
 
-SOFTWARE REQUIRED:
+# SOFTWARE REQUIRED:
 MATLAB Software
 
-THEORY: 
+# THEORY: 
 Bus admittance matrix is often used in power system studies. In most of the 
 power system studies, it is necessary to form [Y-bus] matrix of the system by considering 
 certain power system parameters depending upon the type of analysis. 
@@ -18,7 +18,7 @@ impedances and equivalent load impedance are taken into account.
 Y-bus may be formed by singular transformation method only if there is 
 mutual coupling between the lines.  
 
-ALGORITHM: 
+# ALGORITHM: 
 1. Start the program. 
 2. Initialize the matrix values to zero. 
 3. Read the branch elements and nodes. 
@@ -35,7 +35,7 @@ of matrix.
 11. Print the resultant Y-bus matrix. 
 12. Stop the execution.
     
-PROGRAM: 
+# PROGRAM: 
 Formation of Y-bus using Singular transformation method: 
 ```
 clear; 
@@ -61,4 +61,5 @@ y
 a' 
 a'*y*a
 ```
-RESULT:
+# OUTPUT:
+# RESULT:
